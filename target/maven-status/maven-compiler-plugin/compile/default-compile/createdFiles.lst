@@ -1,0 +1,9 @@
+br\com\caelum\tarefas\modelo\Tarefa.class
+br\com\caelum\teste\Teste1.class
+br\com\caelum\tarefas\ConnectionFactory.class
+br\com\caelum\tarefas\controller\OlaMundoController.class
+br\com\caelum\tarefas\AppConfig.class
+br\com\caelum\tarefas\controller\TarefasController.class
+br\com\caelum\teste\TestaInserir.class
+br\com\caelum\tarefas\controller\JdbcTarefaDao.class
+br\com\caelum\teste\TestaConexao.class
